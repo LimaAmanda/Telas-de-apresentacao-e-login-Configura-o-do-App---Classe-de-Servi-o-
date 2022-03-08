@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L828D/7F/adfoZmumoe+wo7pfteB3PwArJ7d0vXpvC8L4h+Ri/x32E/IIarIyRxzhJ0ZmSTc8YOZx8+UsNmaxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Mobile II\\AppEpgEtec\\AppEpgEtec\\AppEpgEtec\\AppEpgEtec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
